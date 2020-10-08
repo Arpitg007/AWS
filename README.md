@@ -1,2 +1,2 @@
 # AWS
-codes related to aws services
+This repository will be containing the code/ scripts related to AWS.
